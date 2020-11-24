@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>Lista de Usuarios</title>7
+	<title>Lista de usuarios</title>7
 	<meta charset="utf-8">
 	<meta >
 </head>
