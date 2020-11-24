@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+<!-- prueba sincronizacion -->
 <html lang="es">
 <head>
-	<title>Lista de usuarios</title>7
+	<title>LISTA DE USUARIOS</title>7
 	<meta charset="utf-8">
 	<meta >
 </head>
@@ -27,6 +28,3 @@
 	</table>
 </body>
 </html>
-<!--
-prueba sincronizacion
--->
